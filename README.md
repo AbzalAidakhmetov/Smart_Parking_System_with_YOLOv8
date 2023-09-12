@@ -25,11 +25,10 @@ I understand the importance of security and convenience. The system integrates r
 
 But wait, there's more! I have exciting plans for the future. I am actively working on implementing semantic segmentation for parking lots. This means you'll be able to see which parking spaces are free at a glance. No more circling around aimlessly; you'll know exactly where to park.
 
-## Flowchart
+## Step by step guide
 
-To give you a clearer picture of how this Smart Parking System works, here's a simplified flowchart:
+To give you a clearer picture of how this Smart Parking System works, here's a simplified guidance:
 
-![Smart Parking System Flowchart](images/smart_parking_system_flowchart.png)
 
 1. **Camera Feed Input:** The system takes input from cameras strategically placed in the parking area.
 
